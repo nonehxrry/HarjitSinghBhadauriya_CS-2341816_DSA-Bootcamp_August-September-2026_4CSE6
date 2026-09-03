@@ -10,30 +10,6 @@ This repository contains my day-wise Data Structures and Algorithms practice dur
 
 ---
 
-## 🗓️ Bootcamp Timeline
-
-| Day | Date | Status |
-|---|---|---|
-| Day 1 | 03 August 2026 | 📌 |
-| Day 2 | 04 August 2026 | 📌 |
-| Day 3 | 05 August 2026 | 📌 |
-| Day 4 | 06 August 2026 | 📌 |
-| Day 5 | 07 August 2026 | 📌 |
-| Day 6 | 08 August 2026 | 📌 |
-| Day 7 | 09 August 2026 | 📌 |
-| Day 8 | 10 August 2026 | 📌 |
-| Day 9 | 11 August 2026 | 📌 |
-| Day 10 | 12 August 2026 | 📌 |
-| Day 11 | 13 August 2026 | 📌 |
-| Day 12 | 14 August 2026 | 📌 |
-| Day 13 | 15 August 2026 | 📌 |
-| Day 14 | 16 August 2026 | 📌 |
-| Day 15 | 17 August 2026 | 📌 |
-| Day 16 | 18 August 2026 | 📌 |
-| Day 17 | 19 August 2026 | 📌 |
-| Day 18 | 20 August 2026 | 📌 |
-| Day 19 | 21 August 2026 | 📌 |
-
 
 ---
 
@@ -58,7 +34,6 @@ DSA-Bootcamp-Pyramid-Consulting-August-26/
 └── README.md
 ```
 
-> Folder names may follow the existing day-wise structure in the repository.
 
 ---
 
